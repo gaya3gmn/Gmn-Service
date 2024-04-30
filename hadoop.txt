@@ -1,0 +1,5 @@
+Gayathri = 30;
+vinoth = 20;
+pallavi = 70;
+murali = 60;
+
