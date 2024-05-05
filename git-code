@@ -1,0 +1,23 @@
+1.Git is a source managament tool or version control tool or revision control tool.
+
+2.why we are store the code int Git? why we cant store normal folder?
+
+in normal directories peoples overwrite the code and its will not main history who modified, it will not maintain tracker information.
+
+let take git tool we c an overwite the code its will create each and evvery copy separately, will maintain tracker information and its will give the error take latest file. if you are facing any issue in latest file we will go back to take previous file.
+
+3. explain the git archistruture?
+
+Ans. 1. user clone the code from remote respository to local repository
+  2. add to source and staging area
+ 3.commit the code into locAL rep
+4.git push
+
+
+4.what is the diff b/w git and github?
+
+git is  a soyre mang tool and in git hub we can create repository and get access from the browser its cloud and application
+
+
+
+
