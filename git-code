@@ -19,5 +19,22 @@ Ans. 1. user clone the code from remote respository to local repository
 git is  a soyre mang tool and in git hub we can create repository and get access from the browser its cloud and application
 
 
+5. how do you create your user name and user mail?
 
+    git config --global user-name "gayathri"
+    git config --global user-mail "gayathri@123"
+
+6. how do you check the configuaration?
+
+  git config --list
+
+7. where its store configuaration
+
+  cat .gitconfig
+
+8. git push every time ask permission userid and passward store permanatly ?
+   
+   git config --global credential.helper store
+
+9.Branch 
 
